@@ -1,0 +1,6 @@
+# Jupyter related
+.DS_store
+.ipynb_checkpoints
+
+# PyCharm
+.idea
